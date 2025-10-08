@@ -1,0 +1,29 @@
+[
+  {
+    "id": "p1",
+    "title": "Automatizaci\u00f3n WS + CRM",
+    "description": "Automatizaci\u00f3n de WhatsApp integrada con CRM.",
+    "price": 199.99,
+    "category": "servicios",
+    "stock": 5,
+    "image": "https://picsum.photos/seed/a/400/300"
+  },
+  {
+    "id": "p2",
+    "title": "Tema Web Profesional",
+    "description": "Pack de plantillas web para comercio.",
+    "price": 49.99,
+    "category": "software",
+    "stock": 10,
+    "image": "https://picsum.photos/seed/b/400/300"
+  },
+  {
+    "id": "p3",
+    "title": "Integraci\u00f3n API",
+    "description": "Servicio de integraci\u00f3n a APIs externas.",
+    "price": 299.99,
+    "category": "servicios",
+    "stock": 2,
+    "image": "https://picsum.photos/seed/c/400/300"
+  }
+]
